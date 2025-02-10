@@ -53,6 +53,9 @@ https://github.com/imannolM/challenge-amigo-secreto.git
 ## :open_file_folder: Abre y ejecuta el proyecto
 
 Ejecute el proyecto descargando a un repositorio local y acceda a traves de su navegador al archivo index.html.
+El proyecto esta disponible en la página web:
+
+https://imannolm.github.io/challenge-amigo-secreto/
 
 ## :heavy_check_mark: Tecnologías Utilizadas
 
