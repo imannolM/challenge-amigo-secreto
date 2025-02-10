@@ -42,3 +42,23 @@ Proyecto desarrollado para encarar el Challenge Amigo Secreto como parte del cur
 - `Funcionalidad 2`: Crea la lista con los nombres que el usuario ingresa, para ello se creo la función actualizarListaAmigos();
 - `Funcionalidad 3`: De entre los nombres de amigos generados en la lista, hace un sorteo y selecciona uno aleatoriamente para mostrarlo, para ello se creo la función sortearAmigo();
 
+## :file_folder: Acceso al proyecto
+
+Acceda al proyecto a traves de GitHub, enlace:
+
+https://github.com/imannolM/challenge-amigo-secreto.git
+
+## :open_file_folder: Abre y ejecuta el proyecto
+
+Ejecute el proyecto descargando a un repositorio local y acceda a traves de su navegador al archivo index.html.
+
+## :heavy_check_mark: Tecnologías Utilizadas
+
+- `JavaScript`
+- `HTML`
+- `CSS`
+
+## Autores
+
+| [<img src="https://github.com/user-attachments/assets/1f587eac-e4e3-4cf1-a79c-592a2134fe3a" width=115><br><sub>Imannol Monroy</sub>](https://github.com/imannolM) |
+| :---: |
