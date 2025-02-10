@@ -31,3 +31,20 @@ function actualizarListaAmigos() {
     }
     console.log(listaAmigos)
 }
+
+function sortearAmigo() {
+    let numeroAleatorio = Math.floor(Math.random()*amigos.length);
+
+    console.log(numeroAleatorio);
+
+    if (amigos.length == 0) {
+        alert('No hay amigos para sortear. Por favor, inserte un nombre');
+    } else {
+        let amigoSorteado = amigos[numeroAleatorio];
+        let resultado = document.getElementById('resultado');
+        listaAmigos.innerHTML = "";
+        let elementoResultado = document.createElement('li');
+        elementoResultado.textContent = `El Amigo Secreto Sorteado es: ${amigoSorteado}`;
+        resultado.appendChild(elementoResultado);
+    }
+}
